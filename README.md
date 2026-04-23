@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Fernando
 
-<!--
-**fernandotoledo2008-lgtm/fernandotoledo2008-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student currently learning:
+- HTML
+- CSS
+- JavaScript
+- C#
+- ASP.NET MVC
+- Git and GitHub
 
-Here are some ideas to get you started:
+## Current goals
+- Build strong coding fundamentals
+- Create practical projects
+- Grow my portfolio for an IT career
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Responsive Web Design projects
+- JavaScript practice projects
+- MVC class projects
